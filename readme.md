@@ -1,7 +1,7 @@
 
 <div id ="header" align = "center">
     <h1>Schavlev Konstantin</h1>
-    <h2>Junior Python Data Engineer</h2>
+    <h2>GolangDeveloper</h2>
     <a href=''>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
@@ -20,7 +20,7 @@
 <h1> Stack</h1>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go"  height = "60" weight = "60"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go"  height = "60" weight = "60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title = "Kafka" height = "60" weight = "60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title = "PosgreSQL" height = "60" weight = "60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" title = "grpc" height = "60" weight = "60"/>&nbsp;
